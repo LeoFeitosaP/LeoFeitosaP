@@ -1,5 +1,5 @@
 <h1 align="center">Leonardo Feitosa Peres</h1>
-<h3 align="center">AI Enthusiast | Python | Back-end developer | SQL | NoSQL | Machine Learning | Scikit-learn/<h3>
+<h3 align="center">AI Enthusiast | Python | Back-end developer | SQL | NoSQL | Machine Learning | Scikit-learn</h3>
 
 - 🔭 I’m currently working on **Machine Learning models**
 
