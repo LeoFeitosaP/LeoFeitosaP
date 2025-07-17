@@ -1,5 +1,5 @@
 <h1 align="center">Leonardo Feitosa Peres</h1>
-<h3 align="center">AI Enthusiast | Python | TensorFlow | Transformando dados em decisões inteligentes</h3>
+<h3 align="center">AI Enthusiast | Python | Back-end developer | SQL | NoSQL | Machine Learning | Scikit-learn/h3>
 
 - 🔭 I’m currently working on **Machine Learning models**
 
@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Python, IA development and Machine Learning**
 
-- 📫 How to reach me **leonardofeitosa2007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
